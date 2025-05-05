@@ -2,7 +2,7 @@
 ```
 # 🧠 Mind Metrics: ML-Powered Student Mental Health Prediction
 
-[Live Demo] : [https://mind-metrics.onrender.com](https://mind-metrics.onrender.com)
+🚀 **[Launch Live Demo](https://mind-metrics.onrender.com)**  
 
 ```
 
