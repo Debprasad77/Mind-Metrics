@@ -1,10 +1,8 @@
 
 ```
-# 
+🌟 Experience It Live  
 
-## 🌟 Experience It Live  
-
-🚀 **[Launch Live Demo](https://mind-metrics.onrender.com)**  
+🚀 **[Try the Live Demo](https://mind-metrics.onrender.com)**    
 
 ✨ **Demo Features:**  
 - Test with sample student data  
