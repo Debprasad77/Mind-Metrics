@@ -1,6 +1,6 @@
 
 ```
-# 🧠 Mind Metrics: ML-Powered Student Mental Health Prediction
+# 
 
 ## 🌟 Experience It Live  
 
@@ -15,7 +15,7 @@
 
 ```
 
-## 📌 Overview  
+## 📌 Overview  [ 🧠 Mind Metrics: ML-Powered Student Mental Health Prediction ]
 An **AI-powered system** that predicts depression, anxiety, and stress levels in students using **machine learning** (Django + React). Developed as an MCA capstone project at **Sister Nivedita University (2025)**.  
 
 🔹 **Core Features**:  
