@@ -53,9 +53,9 @@ An **AI-powered system** that predicts depression, anxiety, and stress levels in
 ```plaintext
 mind-metrics/  
 ├── ml_model/           # Jupyter notebooks & trained models  
-├── backend/            # Django API  
-├── frontend/           # React dashboard  
-├── dataset/            # Processed CSV files  
+├── backend/            # Django
+├── frontend/           # Django dashboard  
+├── dataset/            # Processed CSV files from Kaggle
 └── docs/               # Project paper & presentations  
 ```
 
