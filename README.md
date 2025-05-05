@@ -3,7 +3,7 @@
 # 🧠 Mind Metrics: ML-Powered Student Mental Health Prediction
 
 
-![image](https://github.com/user-attachments/assets/2df1256e-1d4b-40d3-8301-094ceb5ce275)
+![image](/static/images/Bhaskar.jpg)
 
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Mind_Metrics-2ea44f?style=for-the-badge)](https://mind-metrics.onrender.com)  
