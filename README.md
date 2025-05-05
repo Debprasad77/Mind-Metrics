@@ -1,17 +1,9 @@
 
 ```
-🌟 Experience It Live  
 
-🚀 **[Try the Live Demo](https://mind-metrics.onrender.com)**    
-
-✨ **Demo Features:**  
-- Test with sample student data  
-- View real-time predictions  
-- Explore model confidence levels  
-
-⚠️ **Note:** First load may take 30s (free hosting warm-up)
 
 ```
+
 
 ## 📌 Overview  [ 🧠 Mind Metrics: ML-Powered Student Mental Health Prediction ]
 An **AI-powered system** that predicts depression, anxiety, and stress levels in students using **machine learning** (Django + React). Developed as an MCA capstone project at **Sister Nivedita University (2025)**.  
@@ -21,7 +13,15 @@ An **AI-powered system** that predicts depression, anxiety, and stress levels in
 - 🏆 **Best Model**: AdaBoost (74.24% Accuracy)  
 - 🌐 **[Try the Live Demo](https://mind-metrics.onrender.com)**  
 - 📊 Uses Kaggle's *Student Mental Health Assessments* dataset  
-- 🛠️ Full-stack: Django (Backend), React (Frontend)  
+- 🛠️ Full-stack: Django (Backend), React (Frontend)
+
+
+✨ **Demo Features:**  
+- Test with sample student data  
+- View real-time predictions  
+- Explore model confidence levels  
+
+⚠️ **Note:** First load may take 30s (free hosting warm-up)
 
 ---
 
