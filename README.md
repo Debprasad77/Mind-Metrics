@@ -6,11 +6,13 @@ An **AI-powered system** that predicts depression, anxiety, and stress levels in
 🔹 **Core Features**:  
 - ✅ Multi-label classification (Depression/Anxiety/Stress)  
 - 🏆 **Best Model**: AdaBoost (74.24% Accuracy)  
-- 🌐 **[Try the Live Demo](https://mind-metrics.onrender.com)**  
 - 📊 Uses Kaggle's *Student Mental Health Assessments* dataset  
 - 🛠️ Full-stack: Django (Backend), React (Frontend)
 
+## 🌟 Experience It Live  
 
+🌐 **[Try the Live Demo](https://mind-metrics.onrender.com)**
+  
 ✨ **Demo Features:**  
 - Test with sample student data  
 - View real-time predictions  
