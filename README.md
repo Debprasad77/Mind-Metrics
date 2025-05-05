@@ -2,7 +2,16 @@
 ```
 # 🧠 Mind Metrics: ML-Powered Student Mental Health Prediction
 
+## 🌟 Experience It Live  
+
 🚀 **[Launch Live Demo](https://mind-metrics.onrender.com)**  
+
+✨ **Demo Features:**  
+- Test with sample student data  
+- View real-time predictions  
+- Explore model confidence levels  
+
+⚠️ **Note:** First load may take 30s (free hosting warm-up)
 
 ```
 
