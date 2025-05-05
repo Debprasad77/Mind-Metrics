@@ -41,21 +41,13 @@ An **AI-powered system** that predicts depression, anxiety, and stress levels in
 - **Metrics**: F1-Score, ROC-AUC, 10-Fold Cross-Validation  
 
 ### 🌐 **Web Development**  
-- **Backend**: Django, Django REST Framework  
-- **Frontend**: React.js, Material-UI  
+- **Backend**: Django
+- **Frontend**: Django, Bootstarp
 - **Database**: PostgreSQL  
 
 ### 📊 **Tools**  
-- Git, Docker, VS Code  
+- Git, VS Code  
 
----
-
-## 🌟 Live Demo  
-👉 **[https://mind-metrics.onrender.com](https://mind-metrics.onrender.com)**  
-- Test the model with sample inputs  
-- View interactive visualizations  
-
----
 
 ## 📂 Project Structure  
 ```plaintext
