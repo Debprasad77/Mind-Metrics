@@ -89,6 +89,8 @@ DATABASES = {
 }
 
 database_url = os.environ.get("DATABASE_URL")
+# database_url = "postgresql://postgres:FpGXyIgHTIevSntWGJZwbTlPfgzYmbbB@maglev.proxy.rlwy.net:16392/railway"
+
 
 
 
@@ -137,6 +139,20 @@ USE_TZ = True
 STATIC_URL = 'static/' # below this add the following line
 STATICFILES_DIRS = [os.path.join(BASE_DIR,'static')]
 STATIC_ROOT = os.path.join(BASE_DIR, 'static')
+
+
+
+# # Static files (CSS, JavaScript, Images)
+# STATIC_URL = '/static/'
+
+# # Directory for your development static files (put CSS/JS here)
+# STATICFILES_DIRS = [
+#     os.path.join(BASE_DIR, 'static'),
+# ]
+
+# # Directory where Django will collect all static files for production
+# STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
+
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field
